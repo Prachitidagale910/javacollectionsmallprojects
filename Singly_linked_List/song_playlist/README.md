@@ -1,4 +1,3 @@
-Here’s a README for your **Song Playlist Application** in the same style as your previous one:
 
 ---
 
